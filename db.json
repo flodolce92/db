@@ -1,41 +1,11 @@
 {
-   "cards":[
-      {
-         "id":"1",
-         "image":"https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/A1a/A1a_001_EN.webp",
-         "hp":"50",
-         "name":"Exeggcute",
-         "card_type":"Pokémon",
-         "evolution_type":"Basic",
-         "attacks":[
-            {
-               "cost":[
-                  "Colorless"
-               ],
-               "name":"Growth",
-               "damage":"Spurt",
-               "effect":"Take a [G] Energy from your Energy Zone and attach it to this Pokémon."
-            }
-         ],
-         "ability":{
-            "name":"No ability",
-            "effect":"N/A"
-         },
-         "weakness":"Fire",
-         "retreat":"1",
-         "rarity":"◊",
-         "fullart":"No",
-         "ex":"No",
-         "set_details":"Mythical Island  (A1a)",
-         "pack":"Mew pack",
-         "alternate_versions":[
-            {
-               "version":"Mythical Island #1",
-               "rarity":"◊"
-            }
-         ],
-         "artist":"Yuka Morii",
-         "crafting_cost":35
-      }
-   ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
